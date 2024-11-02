@@ -1,4 +1,6 @@
 <h1 align="center">Brodey Bright </h1>
+<h2 align="center"> Junior Software Developer based in Geelong </h2>
+You can find my [portfolio here](https://brodeybright.netlify.app)
 <!-- Social icons section -->
 <h2 align="center">Socials</h2>
 <p align="center">
