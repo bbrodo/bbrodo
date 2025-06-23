@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Brodey!
 👩🏻‍💻 Web Developer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied Web Development at [Coder Academy](https://coderacademy.edu.au)<br/>
-💭 Currently learning Expressjs and MongoDB!<br/>
+💭 Currently learning C#!<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=bbrodo&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
