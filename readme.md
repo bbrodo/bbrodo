@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Brodey!
-👩🏻‍💻 Software Developer sharing about my journey and learnings in tech<br/>
+👩🏻‍💻 Software/Game Developer<br/>
 👩🏻‍🎓 Studied Web Development at [Coder Academy](https://coderacademy.edu.au)<br/>
 💭 I am currently studying for a Bachelor of Computer Science<br/>
 
